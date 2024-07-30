@@ -9,7 +9,7 @@
 
 ## Table of Content: 
 - [Introduction](#Introduction)
-- [Mutable Infrastructure](#Mutable-Infrastructure)
+- [Mutable Infrastructure](#mutable-infrastructure)
 - [Immutable Infrastructure](#Immutable-Infrastructure)
 - [Comparison](#Comparison)
 - [Recommendation](#Recommendation)
