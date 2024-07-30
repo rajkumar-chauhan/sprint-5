@@ -9,13 +9,13 @@
 
 ## Table of Content: 
 - [Introduction](#Introduction)
-- [Mutuable-Infrastructure](#Mutuable-Infrastructure)
-- [Immutable-Infrastructure](#Immutable-Infrastructure)
+- [Mutuable Infrastructure](#Mutuable-Infrastructure)
+- [Immutable Infrastructure](#Immutable-Infrastructure)
 - [Comparison](#Comparison)
 - [Recommendation](#Recommendation) 
 - [Conclusion](#Conclusion)
 - [References](#References)
-- [Contact-Information](#Contact-Information) 
+- [Contact Information](#Contact-Information) 
 
 
 ## Introduction
