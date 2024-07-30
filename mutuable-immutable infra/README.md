@@ -12,10 +12,10 @@
 - [Mutable Infrastructure](#Mutable-Infrastructure)
 - [Immutable Infrastructure](#Immutable-Infrastructure)
 - [Comparison](#Comparison)
-- [Recommendation](#Recommendation) 
+- [Recommendation](#Recommendation)
 - [Conclusion](#Conclusion)
 - [References](#References)
-- [Contact Information](#Contact-Information) 
+- [Contact Information](#Contact-Information)
 
 
 ## Introduction
