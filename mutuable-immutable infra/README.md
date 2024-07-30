@@ -9,7 +9,7 @@
 
 ## Table of Content: 
 - [Introduction](#Introduction)
-- [Mutuable Infrastructure](#Mutuable-Infrastructure)
+- [Mutable Infrastructure](#Mutable-Infrastructure)
 - [Immutable Infrastructure](#Immutable-Infrastructure)
 - [Comparison](#Comparison)
 - [Recommendation](#Recommendation) 
@@ -21,7 +21,7 @@
 ## Introduction
 This documentation provides a deep analysis of the comparison and recommendation between mutable and immutable infrastructure. The aim is to thoroughly examine both approaches and provide clear guidance on which strategy to adopt based on specific requirements and use cases.
 
-## Mutuable  Infrastructure:
+##  Mutable  Infrastructure:
 Mutable Infrastructure refers to a type of infrastructure that can be altered or modified after its initial creation. This means that servers and other resources are updated in place, with changes applied directly to the existing infrastructure. This could involve installing new software, updating configurations, or applying patches to live systems.
 
 ## Immutable Infrastructure:
