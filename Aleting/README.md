@@ -53,7 +53,7 @@ Each alerting rule includes the condition to trigger an alert, the severity of t
 - **Severity:** Medium
 - **Threshold:** 80%
 - **Duration:** 5 minutes
-- **Notification Message:** "CPU utilization has exceeded 80% for the past 5 minutes on [Database Instance Name]."
+- **Notification Message:** "CPU utilization has exceeded 80% for the past 5 minutes on Database Instance ."
 
 **Actions:**
 - Investigate running queries for high CPU usage.
@@ -66,7 +66,7 @@ Each alerting rule includes the condition to trigger an alert, the severity of t
 - **Severity:** High
 - **Threshold:** 75%
 - **Duration:** 10 minutes
-- **Notification Message:** "Memory usage has exceeded 75% for the past 10 minutes on [Database Instance Name]."
+- **Notification Message:** "Memory usage has exceeded 75% for the past 10 minutes on Database Instance ."
 
 **Actions:**
 - Check for memory leaks or inefficient memory utilization.
@@ -79,7 +79,7 @@ Each alerting rule includes the condition to trigger an alert, the severity of t
 - **Severity:** High
 - **Threshold:** 85%
 - **Duration:** Immediate
-- **Notification Message:** "Disk space usage has exceeded 85% on [Database Instance Name]."
+- **Notification Message:** "Disk space usage has exceeded 85% on Database Instance ."
 
 **Actions:**
 - Clean up unnecessary files or logs.
@@ -92,7 +92,7 @@ Each alerting rule includes the condition to trigger an alert, the severity of t
 - **Severity:** Medium
 - **Threshold:** 200 milliseconds
 - **Duration:** 15 minutes
-- **Notification Message:** "Average query execution time has exceeded 200 milliseconds on [Database Instance Name]."
+- **Notification Message:** "Average query execution time has exceeded 200 milliseconds on Database Instance ."
 
 **Actions:**
 - Identify slow-running queries.
@@ -105,7 +105,7 @@ Each alerting rule includes the condition to trigger an alert, the severity of t
 - **Severity:** High
 - **Threshold:** 10 errors
 - **Duration:** 5 minutes
-- **Notification Message:** "Number of connection errors has exceeded 10 within the past 5 minutes on [Database Instance Name]."
+- **Notification Message:** "Number of connection errors has exceeded 10 within the past 5 minutes on Database Instance ."
 
 **Actions:**
 - Check for network connectivity issues.
