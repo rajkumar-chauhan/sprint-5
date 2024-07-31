@@ -37,11 +37,12 @@
 - **AWS CloudWatch:** Monitors AWS RDS instances.
 - **Datadog:** Provides comprehensive monitoring and alerting for databases.
 
-![image](https://github.com/user-attachments/assets/84b7f7b6-01af-40bf-af5a-c06cf8951a8f)
-
 **Integration:**
 - Databases are instrumented with agents or exporters to send metrics to the monitoring tools.
 - Dashboards are configured in Grafana and Datadog to visualize the key performance indicators (KPIs).
+
+  ![image](https://github.com/user-attachments/assets/84b7f7b6-01af-40bf-af5a-c06cf8951a8f)
+
 
 ##  Alerting Rules
 
